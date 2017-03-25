@@ -399,11 +399,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #88398A;
+  border-color: #88398A;
 }
 .btn-success .badge {
-  color: #18BC9C;
+  color: #88398A;
   background-color: white;
 }
 .btn-social {
