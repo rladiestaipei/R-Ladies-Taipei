@@ -50,7 +50,7 @@ hr.star-primary:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: white;
+  border-color: #88398A;
 }
 hr.star-light:after {
   background-color: #88398A;
