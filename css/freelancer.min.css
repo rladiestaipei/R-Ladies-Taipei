@@ -30,7 +30,7 @@ h3 {
 h4 {
   font-family: "Montserrat", "Helvetica Neue","微軟正黑體", Helvetica, Arial, sans-serif;
   text-transform: none;
-  font-weight: 700;
+  font-weight: 500;
 }
 h5,
 h6 {
@@ -267,6 +267,7 @@ section.success {
   background: none;
   box-shadow: none !important;
   resize: none;
+  color: black;
 }
 .floating-label-form-group label {
   display: block;
@@ -333,8 +334,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #88398A;
+  border-color: #88398A;
   font-weight: 700;
 }
 .btn-primary:hover,
