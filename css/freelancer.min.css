@@ -54,7 +54,7 @@ hr.star-light {
 }
 hr.star-light:after {
   background-color: white;
-  color: white;
+  color: #88398A;
 }
 hr.star-primary {
   border-color: #88398A;
@@ -68,8 +68,8 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #88398A;
-  color: white;
+  background: white;
+  color: #88398A;
 }
 header .container {
   padding-top: 100px;
