@@ -1,2 +1,2 @@
-# [R Ladies Taipei](https://rladiestaipei.github.io/RLadies-Taipei/)
+# [R Ladies Taipei](https://rladiestaipei.github.io/R-Ladies-Taipei/)
 
