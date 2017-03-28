@@ -6,6 +6,7 @@
 body {
   font-family: 'Lato', 'Helvetica Neue',"微軟正黑體", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  line-height: normal;
 }
 p {
   font-size: 20px;
