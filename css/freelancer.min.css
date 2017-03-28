@@ -6,6 +6,7 @@
 body {
   font-family: 'Lato', 'Helvetica Neue',"微軟正黑體", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  line-height: 40px;
 }
 p {
   font-size: 20px;
@@ -37,7 +38,6 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue","微軟正黑體", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  line-height: 20px;
 }
 hr.star-light,
 hr.star-primary {
