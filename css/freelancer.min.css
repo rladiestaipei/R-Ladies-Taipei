@@ -20,7 +20,11 @@ a:active,
 a.active {
   color: #88398A;
 }
-h1,
+h1 {
+  font-family: "Montserrat", "Helvetica Neue","微軟正黑體", Helvetica, Arial, sans-serif;
+  text-transform: none;
+  font-weight: 700;
+}
 h2,
 h3 {
   font-family: "Montserrat", "Helvetica Neue","微軟正黑體", Helvetica, Arial, sans-serif;
