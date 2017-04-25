@@ -257,7 +257,7 @@
                                 <a href="https://www.facebook.com/groups/twrladies/" class="btn-social btn-outline"><span class="sr-only">Facebook</span><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/" class="btn-social btn-outline"><span class="sr-only">Website</span><i class="fa fa-fw fa-dribbble"></i></a>
+                                <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/" class="btn-social btn-outline"><span class="sr-only">Website</span><i class="fa fa-fw fa-globe"></i></a>
                             </li>
                             <li>
                                 <a href="https://github.com/rladiestaipei" class="btn-social btn-outline"><span class="sr-only">Github</span><i class="fa fa-fw fa-github-square"></i></a>
@@ -620,6 +620,9 @@
                         <div class="modal-body">
                             <h2 style="color:#88398A">Kaggle</h2>
                             <hr class="star-light">
+                            <a href="http://kaggletw.azurewebsites.net/" class="btn-social btn-outline"><span class="sr-only">Website</span><i class="fa fa-fw fa-globe"></i></a>
+                            <h3>Let's Go, KAGGLE!</h3>
+                            <iframe src="http://kaggletw.azurewebsites.net/" frameborder="0" id="frame_id"  width="100%"></iframe>
                             <button id="btnSubmit" type="button" class="btn btn-success btn-lg" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -644,6 +647,13 @@
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
 
+    <!-- Iframe -->
+    <script  type="text/javascript">
+    function reSize(){
+        parent.document.all.frame_id.height=document.body.scrollHeight; 
+    } 
+    window.onload=reSize;
+    </script>
     <!-- Conect Us Form -->
     <!--
     <script data-cfasync="false" type="text/javascript" src="js/form-submission-handler.js"></script>
